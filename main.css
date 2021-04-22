@@ -11135,10 +11135,11 @@ button,
     border-color: transparent
 }
 
-.app-header.header-text-light .app-header-right>.header-btn-lg .widget-content-left .btn-group>.btn,
+.app-header.header-text-light .app-header-right>.header-btn-lg
+.btn-group>.btn,
 .app-header.header-text-light .app-header-right>.header-btn-lg .widget-heading,
 .app-header.header-text-light .app-header-right>.header-btn-lg .widget-subheading {
-    color: rgba(255, 255, 255, 0.8)
+    color: rgba(72, 16, 177, 0.8)
 }
 
 .app-header.header-text-light .app-header-right>.header-btn-lg .header-user-info>.btn-shadow {
@@ -11846,7 +11847,8 @@ button,
     width: 21px
 }
 
-.closed-sidebar.closed-sidebar-mobile .app-sidebar .app-header__logo .header__pane {
+.closed-sidebar.closed-sidebar-mobile .app-sidebar .app-header__logo .
+ {
     display: none
 }
 
@@ -25155,7 +25157,7 @@ a.fc-more:hover {
 
 @media only screen and (max-width: 1320px) {
     .header-user-info {
-        display: none
+        display: 
     }
 }
 
@@ -25696,7 +25698,7 @@ a.fc-more:hover {
 
 .btn-icon-vertical {
     min-width: 100px
-}
+}header-user-info
 
 .card.mb-3 {
     margin-bottom: 30px !important
